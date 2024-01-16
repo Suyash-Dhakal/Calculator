@@ -15,12 +15,13 @@ Responsive layout for seamless use on various devices.
 * JS
 
 <h1>Preview</h1>
+
 ![Calculator](Calculator_Final_Img.png)
 
 <h1>Usage</h1>
 
 To view the cloned Amazon index webpage:
-* Clone this repository to your local machine using git clone https://github.com/ your-username/Calculator.git
+* Clone this repository to your local machine using git clone https://github.com/Suyash-Dhakal/Calculator.git
 * Open index.html in your preferred web browser.
 
 Feel free to explore the code and customize it according to your preferences. If you encounter any issues or have suggestions, don't hesitate to open an issue.
