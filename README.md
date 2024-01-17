@@ -20,7 +20,7 @@ Responsive layout for seamless use on various devices.
 
 <h1>Usage</h1>
 
-To view the cloned Amazon index webpage:
+To use the Calculator:
 * Clone this repository to your local machine using git clone https://github.com/Suyash-Dhakal/Calculator.git
 * Open index.html in your preferred web browser.
 
